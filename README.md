@@ -5,7 +5,7 @@ A Streamlit-based tool for preprocessing, feature extraction, visualization, and
 ## Features
 
 - PPG preprocessing and filtering
-##- Signal segmentation into fixed-length windows
+- Signal segmentation into fixed-length windows
 - Feature extraction for signal quality assessment
 - Interactive visualization of raw and filtered signals
 - Foundation for ML-assisted signal quality annotation
