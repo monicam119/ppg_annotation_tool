@@ -64,8 +64,7 @@ ppg-annotation-tool/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── scripts/
-└── data/
+└── scripts/
 ```
 
 ## Future Work
