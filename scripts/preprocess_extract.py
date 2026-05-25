@@ -1,5 +1,4 @@
 import os
-from attrs import fields
 import wfdb
 import pandas as pd
 import matplotlib.pyplot as plt
